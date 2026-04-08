@@ -1,14 +1,6 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--   SUBSTITUA ANTES DE COLAR:                               -->
-<!--   SEU_USERNAME  →  seu username do GitHub                 -->
-<!--   SEU NOME      →  seu nome                               -->
-<!--   SUA CIDADE    →  ex: São Paulo, SP                      -->
-<!--   SUA FRASE     →  uma frase curta sobre você             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- BANNER ANIMADO COM TEXTO DIGITANDO -->
+<!-- BANNER ANIMADO -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Olá%2C+sou+Felipe+Vieira+da+Costa!+👋;Backend+Developer+🐍;Python+%2B+SQL+na+veia+🗄️;Sempre+construindo+algo+novo+🚀" alt="Typing SVG" />
 
 <br/>
@@ -68,7 +60,7 @@
 
 <div align="center">
 
-<!-- ÍCONES VISUAIS COM SKILLICONS -->
+<!-- ÍCONES VISUAIS -->
 <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,fastapi,git,vscode&theme=dark&perline=10" alt="tech stack" />
 
 </div>
@@ -107,7 +99,6 @@
 
 ## 🏆 Troféus
 
-<!-- ✅ Aparece automaticamente assim que você trocar SEU_USERNAME -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=felipedc3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trofeus"/>
 </div>
@@ -116,7 +107,6 @@
 
 ## 🐍 Meus commits em ação
 
-<!-- ⚠️ Só aparece após configurar o workflow — veja instruções abaixo -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/felipedc3/felipedc3/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </div>
