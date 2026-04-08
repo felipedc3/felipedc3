@@ -55,7 +55,6 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top" align="left">
-      <h3>📦 Nome do Projeto 1</h3>
       <p>API sistema bancário com FastAPI.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -64,7 +63,6 @@
       <a href="https://github.com/felipedc3/api-bancaria">🔗 Ver repositório</a>
     </td>
     <td width="50%" valign="top" align="left">
-      <h3>📦 Nome do Projeto 2</h3>
       <p>Blog com FastAPI.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
