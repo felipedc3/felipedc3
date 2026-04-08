@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=header&text=Felipe%20Vieira%20da%20Costa&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Dev%20Backend%20%7C%20Python%20&descAlignY=58&descSize=18&animation=fadeIn&width=1000" />
 
   <p>
-    <a href="https://linkedin.com/in/felipedc3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/felipe-vieira-da-costa-134250121/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:felipedc.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 
