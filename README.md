@@ -121,40 +121,6 @@
   <img src="https://raw.githubusercontent.com/felipedc3/felipedc3/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </div>
 
-<details>
-<summary>📖 Como ativar a animação da cobrinha (clique para expandir)</summary>
-
-1. No seu repositório de perfil, crie o arquivo `.github/workflows/snake.yml`
-2. Cole o conteúdo abaixo:
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Vá em **Actions → Generate Snake Animation → Run workflow**
-4. Aguarde ~1 minuto e a cobrinha aparece!
-
-</details>
 
 ---
 
