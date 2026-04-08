@@ -33,8 +33,8 @@
 class BackendDeveloper:
 
     def __init__(self):
-        self.nome       = "Seu Nome"
-        self.localizacao = "Brasil 🇧🇷"
+        self.nome       = "Felipe Vieira da Costa"
+        self.localizacao = "São Paulo/Brasil 🇧🇷"
         self.cargo      = "Backend Developer"
         self.linguagens = ["Python", "SQL"]
         self.interesses = ["APIs REST", "Bancos de dados", "Automação"]
