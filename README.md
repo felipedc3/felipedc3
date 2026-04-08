@@ -56,21 +56,21 @@
   <tr>
     <td width="50%" valign="top" align="left">
       <h3>📦 Nome do Projeto 1</h3>
-      <p>API que automatiza X para resolver Y.</p>
+      <p>API sistema bancário com FastAPI.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
       </p>
-      <a href="https://github.com/felipedc3/SEU-REPO">🔗 Ver repositório</a>
+      <a href="https://github.com/felipedc3/api-bancaria">🔗 Ver repositório</a>
     </td>
     <td width="50%" valign="top" align="left">
       <h3>📦 Nome do Projeto 2</h3>
-      <p>Sistema de banco de dados para gerenciamento de Z.</p>
+      <p>Blog com FastAPI.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
-      <a href="https://github.com/felipedc3/SEU-REPO">🔗 Ver repositório</a>
+      <a href="https://github.com/felipedc3/blog_fastapi">🔗 Ver repositório</a>
     </td>
   </tr>
 </table>
@@ -81,12 +81,8 @@
 
 <div align="center">
 
-## 📈 Estatísticas & Atividade
+## 📈 Minhas estatisticas
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipedc3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedc3&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=felipedc3&theme=tokyonight&hide_border=true&background=0d1117&locale=pt_BR" alt="streak"/>
 
@@ -96,7 +92,7 @@
 
 <div align="center">
 
-## 🐍 Snake Game
+## 🐍 Minha atividade
 
 <img src="https://raw.githubusercontent.com/felipedc3/felipedc3/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
