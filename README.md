@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-<a href="https://github.com/SEU_USERNAME">
+<a href="https://github.com/felipedc3">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+%5BSeu+Nome%5D+%F0%9F%91%8B;Backend+Developer+%F0%9F%90%8D;Python+%2B+SQL+Enthusiast+%F0%9F%97%84%EF%B8%8F;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
@@ -11,17 +11,17 @@
 <a href="https://linkedin.com/in/SEU_PERFIL">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:SEU_EMAIL@gmail.com">
+<a href="mailto:felipedc.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/SEU_USERNAME">
+<a href="https://github.com/felipedc3">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
 <!-- Contador de visitas -->
-<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=felipedc3&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
@@ -65,8 +65,6 @@ print(eu.frase())
 
 <!-- Ferramentas -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -78,17 +76,17 @@ print(eu.frase())
 <div align="center">
 
 <!-- Stats card principal -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipedc3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
 <!-- Linguagens mais usadas -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedc3&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
 <!-- Streak de commits -->
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=felipedc3&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 
 </div>
 
@@ -97,7 +95,7 @@ print(eu.frase())
 ## 🏆 Troféus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=felipedc3&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
 </div>
 
 ---
@@ -105,7 +103,7 @@ print(eu.frase())
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/felipedc3/felipedc3/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 
